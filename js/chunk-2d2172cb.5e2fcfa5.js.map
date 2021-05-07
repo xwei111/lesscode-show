@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/consts/customConsts/rect/attr.ts"],"names":["rectAttr"],"mappings":"gHAAA,WAAMA,EAEF,GAEW","file":"js/chunk-2d2172cb.5e2fcfa5.js","sourcesContent":["const rectAttr: {\n  [key: string]: any;\n} = {};\n\nexport default rectAttr;\n"],"sourceRoot":""}

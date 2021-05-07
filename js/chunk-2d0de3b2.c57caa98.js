@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0de3b2"],{8587:function(e,l,t){"use strict";t.r(l);var o={width:{label:"宽",type:"inputNumber"},height:{label:"宽",type:"inputNumber"},top:{label:"距顶部",type:"inputNumber"},left:{label:"距左侧",type:"inputNumber"},"background-color":{label:"背景色",type:"colorPicker"},"border-color":{label:"边框色",type:"colorPicker"}};l["default"]=o}}]);
-//# sourceMappingURL=chunk-2d0de3b2.c57caa98.js.map
